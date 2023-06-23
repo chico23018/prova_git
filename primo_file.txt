@@ -1,3 +1,7 @@
 xasxa
 
+<<<<<<< HEAD
 hola
+=======
+ciao feature
+>>>>>>> feature
